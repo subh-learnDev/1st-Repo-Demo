@@ -1,3 +1,4 @@
 # 1st-Repo-Demo
-This the first repo to get understand making fiiles
+This is the first repo to get an understanding of making files
+<br>
 Author-Subh
